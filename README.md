@@ -18,10 +18,10 @@ The Titanic dataset contains two files : 'attachment_titanic.csv' and 'test.csv'
 
 # Key Findings and Insights
 After exploring and analyzing the dataset, the following key findings and insights were discovered :
-> There is correlation between passenger class and survival, with passengers with first-class survived more
-> Females have higher chance of survival
-> Passengers with higher fare tickets also have higher chances of survival
-> Age also plays crucial role in chances of survival of the passenger. Childrens have survived the more.
+> There is correlation between passenger class and survival, with passengers with first-class survived more.  
+> Females have higher chance of survival.  
+> Passengers with higher fare tickets also have higher chances of survival.  
+> Age also plays crucial role in chances of survival of the passenger. Childrens have survived the more.   
 
 # Data Visualizations 
 To illustrate the insights gained from the analysis, various data visualizations were created, including : 
@@ -45,8 +45,7 @@ To run this jupiter notebook in your local environment follow the below steps :
 4. Run all the cells in the jupiter notebooks in sequential manner.
 
 # Author 
-Name : Mohammed Abdul Rahman
-Linkedin : [Mohammed Abdul Rahman](https://www.linkedin.com/in/rahmanabdul003/)
+Name : Mohammed Abdul Rahman    Linkedin : [Mohammed Abdul Rahman](https://www.linkedin.com/in/rahmanabdul003/)
 
 # License 
 This project is under Eclipse Public License 2.0
