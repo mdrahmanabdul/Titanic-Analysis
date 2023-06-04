@@ -6,12 +6,12 @@ The Titanic dataset is well-known dataset that contains information about passen
 
 # Technologies Used
  1.Python<br>
- 2.Jupyter Notebooks<br>    
- 3.Pandas<br>    
- 4.Numpy<br>    
- 5.Matplotlib<br>     
- 6.Seaborn<br>    
- 7.scikit-learn<br>    
+ 2.Jupyter Notebooks<br>
+ 3.Pandas<br>
+ 4.Numpy<br>
+ 5.Matplotlib<br>
+ 6.Seaborn<br> 
+ 7.scikit-learn<br>
 
 # Dataset Description
 The Titanic dataset contains two files : 'attachment_titanic.csv' and 'test.csv'. The 'attachment_titanic.csv' file contains the training set, which includes passenger information along with their survival outcome. The 'test.csv' file contains the test set, where the outcome is not provived. The dataset can be obtained from [Kaggle](https://www.kaggle.com/competitions/titanic/data)
