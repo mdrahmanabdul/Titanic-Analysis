@@ -5,7 +5,7 @@ This project aims at predicting who has survived based on various features(indep
 The Titanic dataset is well-known dataset that contains information about passengers on the Titanic, including their fair price,Pclass,Embarked and whether they survived or not. The mail goal of this project is to build a ML model that can predict the survival of the passengers based on the features that are available.
 
 # Technologies Used
- 1.Python 
+ 1.Python<br>
  2.Jupyter Notebooks<br>    
  3.Pandas<br>    
  4.Numpy<br>    
