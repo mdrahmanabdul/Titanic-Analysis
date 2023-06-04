@@ -5,13 +5,13 @@ This project aims at predicting who has survived based on various features(indep
 The Titanic dataset is well-known dataset that contains information about passengers on the Titanic, including their fair price,Pclass,Embarked and whether they survived or not. The mail goal of this project is to build a ML model that can predict the survival of the passengers based on the features that are available.
 
 # Technologies Used
- 1.Python
- 2.Jupyter Notebooks
- 3.Pandas
- 4.Numpy
- 5.Matplotlib
- 6.Seaborn
- 7.scikit-learn
+ 1.Python 
+ 2.Jupyter Notebooks<br>    
+ 3.Pandas<br>    
+ 4.Numpy<br>    
+ 5.Matplotlib<br>     
+ 6.Seaborn<br>    
+ 7.scikit-learn<br>    
 
 # Dataset Description
 The Titanic dataset contains two files : 'attachment_titanic.csv' and 'test.csv'. The 'attachment_titanic.csv' file contains the training set, which includes passenger information along with their survival outcome. The 'test.csv' file contains the test set, where the outcome is not provived. The dataset can be obtained from [Kaggle](https://www.kaggle.com/competitions/titanic/data)
@@ -45,7 +45,7 @@ To run this jupiter notebook in your local environment follow the below steps :
 4. Run all the cells in the jupiter notebooks in sequential manner.
 
 # Author 
-Name : Mohammed Abdul Rahman    Linkedin : [Mohammed Abdul Rahman](https://www.linkedin.com/in/rahmanabdul003/)
+Name : Mohammed Abdul Rahman  <br> Linkedin : [Mohammed Abdul Rahman](https://www.linkedin.com/in/rahmanabdul003/)
 
 # License 
 This project is under Eclipse Public License 2.0
